@@ -14,8 +14,9 @@
  3. `bin2hex()`	Converts a string of ASCII characters to hexadecimal values.
  4. `chop()`	Removes whitespace or other characters from the right end of a string.
  5. `chr()`	Returns a character from a specified ASCII value.
+
 > as in: 
- ![image](img/SolvePart2.jpg)
+ ![image](Img/SolvePart2.jpg)
 
 # Part3
 > Write a PHP script to get the sum and avg of an indexed array
