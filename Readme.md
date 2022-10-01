@@ -14,7 +14,7 @@
  3. `bin2hex()`	Converts a string of ASCII characters to hexadecimal values.
  4. `chop()`	Removes whitespace or other characters from the right end of a string.
  5. `chr()`	Returns a character from a specified ASCII value.
- as in: 
+> as in: 
  ![image](img/SolvePart2.jpg)
 
 # Part3
