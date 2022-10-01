@@ -50,4 +50,4 @@
     ];
 
 > Solve as in : 
- ![image](img/SolveTablePart5.jpg)
+ ![image](Img/SolveTablePart5.jpg)
